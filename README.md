@@ -77,7 +77,7 @@ The program displays a thank-you message and exits when the user selects the Exi
 ```text
 employee-management-system/
 │
-├── employee_management_system.py
+├── employeeManagementSystem.py
 ├── README.md
 ├── .gitignore
 └── screenshots/
